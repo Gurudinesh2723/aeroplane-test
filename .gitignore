@@ -1,0 +1,15 @@
+# Backups and intermediate frame extracts (regenerate with rebuild_frames.py)
+_frames_backup_v1/
+_dismantle_extracted/
+_frame_test/
+CLIP*-ezgif-split/
+*.zip
+
+# Scratch / test output
+test_*.webp
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
